@@ -20,7 +20,7 @@ I'm a final-year Computer Science student at FAST-NUCES Lahore. I build where re
 
 **Walls Were Built to Fall**<br>
 Co-op horde-defense roguelite FPS on Roblox. Hold a castle wall against a demon horde with towers, traps and 130 spell cards that evolve and combo. Every model is built procedurally from primitives.<br>
-<sub>Roblox, Luau, multiplayer, in development</sub>
+<sub>Roblox, Luau, multiplayer, launching on Roblox soon</sub>
 </td>
 <td width="50%" valign="top">
 <img src="assets/cards/negotiator.png" alt="The Negotiator, dithered screenshot" width="100%">
@@ -58,7 +58,7 @@ Fast 2D parry combat in Unity. Custom hitboxes, frame-perfect deflect timing, an
 <img src="assets/cards/scnt.png" alt="SCNT Studio, pixel perfume bottle" width="100%">
 
 **SCNT Studio** (client work)<br>
-Paid WooCommerce storefront for a perfume brand, built end to end in June 2026: catalog and variants, checkout, a custom responsive theme and on-page SEO.<br>
+Paid WooCommerce storefront for a perfume brand, built end to end in June 2026: catalog and variants, checkout, a custom responsive theme and on-page SEO. Launching at scnt.studio this month.<br>
 <sub>WordPress, WooCommerce, SEO</sub>
 </td>
 </tr>
@@ -91,11 +91,11 @@ Also Luau and Roblox Studio, GLSL, SQL, ffmpeg and Odoo.
 
 ## Track record
 
-- **Head of AI**, SOFTEC 2026, FAST-NUCES. Running the campus AI coding competition.
+- **Head of AI Competition**, SOFTEC 2026, FAST-NUCES.
 - **Freelance developer**, SCNT Studio, June 2026.
 - **Runner-up**, FAST speed-programming contest, November 2024.
 - **Software engineering intern**, Mediod Consulting, July to August 2024. Odoo ERP modules.
-- **Dean's List**, FAST-NUCES.
+- **Dean's List**, FAST-NUCES, first and sixth semesters.
 
 ## Get in touch
 
