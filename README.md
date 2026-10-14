@@ -79,9 +79,9 @@ Paid WooCommerce storefront for a perfume brand, built end to end in June 2026: 
 
 ## The portfolio is a game of Tetris
 
-[![My portfolio: each page is a stack of tetrominoes](assets/portfolio.png)](https://irfy2k.github.io)
+[![My portfolio: each page is a stack of tetrominoes](assets/portfolio.png)](https://irfy2k.github.io/tetris/)
 
-Each page of [irfy2k.github.io](https://irfy2k.github.io) is a stack of tetrominoes. Click a block to open it. Scroll, and an I piece drops into the gap and clears the line to the next page. It's a single HTML file with no dependencies.
+Each page of [irfy2k.github.io/tetris](https://irfy2k.github.io/tetris/) is a stack of tetrominoes. Click a block to open it. Scroll, and an I piece drops into the gap and clears the line to the next page. It's a single HTML file with no dependencies. There's also [a Three.js lighthouse](https://irfy2k.github.io/lighthouse/) where each project is a ship, and [a one-page overview](https://irfy2k.github.io) with clips of everything.
 
 ## Toolbox
 
@@ -100,4 +100,4 @@ Also Luau and Roblox Studio, GLSL, SQL, ffmpeg and Odoo.
 ## Get in touch
 
 Open to part-time and freelance work alongside my degree, remote or in Lahore (UTC+5).
-Email **irfy2k1@outlook.com**. Older projects live on [@irfy2k321](https://github.com/irfy2k321).
+Email **irfy2k1@outlook.com**, or grab [my CV](https://irfy2k.github.io/ahmed-zuhair-cv.pdf). Older projects live on [@irfy2k321](https://github.com/irfy2k321).
