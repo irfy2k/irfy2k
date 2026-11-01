@@ -39,11 +39,11 @@ One pipeline benchmarks MVSplat, NoPoSplat and AnySplat on the same data and GPU
 <sub>3D vision, benchmarking, Android, in progress</sub>
 </td>
 <td width="50%" valign="top">
-<img src="assets/cards/riposte.png" alt="Riposte, dithered screenshot" width="100%">
+<img src="assets/cards/matchday.png" alt="MatchDay, dithered screenshots of the app" width="100%">
 
-**[Riposte](https://github.com/irfy2k/2d-Game)**<br>
-Fast 2D parry combat in Unity. Custom hitboxes, frame-perfect deflect timing, and goblins that stun with a blue flash when you land a parry.<br>
-<sub>Unity, C#, combat AI</sub>
+**[MatchDay](https://github.com/irfy2k/MatchDay)**<br>
+Run a local league from your phone. Organisers score matches from the touchline; teams and fans follow live with video, scorers and stats, and the table updates itself. Football, basketball, cricket and esports run on one engine.<br>
+<sub>Flutter, FastAPI, Android, live streaming</sub>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,8 @@ Paid WooCommerce storefront for a perfume brand, built end to end in June 2026: 
 | Project | What it is | Built with |
 |---|---|---|
 | [FabricOS](https://customizer-three.vercel.app) | Browser-based 3D fabric customiser ([code](https://github.com/irfy2k/Customizer)) | JavaScript, 3D |
-| Shorts Pipeline | Makes and uploads original YouTube Shorts end to end, with a source manifest per video | Python, ffmpeg, Claude |
+| [Riposte](https://github.com/irfy2k/2d-Game) | Fast 2D parry combat: custom hitboxes, frame-perfect deflects | Unity, C# |
+| Shorts Pipeline | Makes and uploads original YouTube Shorts end to end, with a source manifest per video | Python, ffmpeg, LLM API |
 | [ClinicalHub](https://github.com/irfy2k/ClinicalHub) | Clinic app: appointments, chat, prescriptions, push reminders | Expo, React Native, Firebase |
 | [Daylight](https://daylight-lime-omega.vercel.app) | AI daily dashboard for mood, tasks and money ([code](https://github.com/irfy2k/Daylight)) | Next.js, TypeScript |
 
